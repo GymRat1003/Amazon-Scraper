@@ -1,4 +1,6 @@
 # Amazon-Scraper
+Motivation:
+Ever got bored of scrolling endlessly for products? Well, that was me. Which is why I created this program to make the process more straightforward and automated.
 
 Disclaimer:
 This is by no means a godsend scraper. It returns the first page of search results, from Amazon.
