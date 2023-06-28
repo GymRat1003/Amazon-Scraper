@@ -1,0 +1,7 @@
+Prerequisites:
+
+1. Ensure requests, os, BeautifulSoup, reportlab and Selenium modules are installed.
+
+2. Change number of results to return, through "top_num" variable
+
+3. Change folder directory to store PDFs through "directory" variable
